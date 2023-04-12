@@ -14,7 +14,13 @@ tokyo night
 # Settings:
 prettier single
 prettier usetabs
+word wrap on
+breadcrumbs off
+linked editing on
 
+# tips
+shift tab - lewo
+tab - prawo
 
 
 
